@@ -1,0 +1,7 @@
+# Store everything byte-for-byte (no CRLF conversion of KiCad/Gerber files)
+* -text
+*.step binary
+*.STEP binary
+*.zip binary
+*.db binary
+*.pdf binary
