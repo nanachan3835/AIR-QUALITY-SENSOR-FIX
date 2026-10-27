@@ -1,0 +1,19 @@
+# KiCad per-user / temporary files
+*.kicad_prl
+*-backups/
+*.lck
+~*.lck
+fp-info-cache
+*.bak
+_autosave-*
+\#auto_saved_files#
+
+# ngspice simulation output
+*.raw
+*.spiceinit
+.spiceinit
+spinit
+
+# Python (the MCP server venv lives outside this folder on purpose)
+.venv/
+__pycache__/
