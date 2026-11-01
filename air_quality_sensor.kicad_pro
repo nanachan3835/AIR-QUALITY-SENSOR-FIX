@@ -98,10 +98,6 @@
           ""
         ],
         [
-          "silk_over_copper|106900000|113164000|cb44e46d-97e9-4b89-8541-7fb664db2636|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "starved_thermal|107150000|111689000|44bac8e8-2fca-4e59-9766-6a72594231d3|428e95dd-10de-46e8-9f53-89fb2c4a9fae|F.Cu",
           ""
         ],
@@ -887,7 +883,7 @@
         "uuid": "fe09aefc-3c18-4540-adde-3c5d30e862f7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR50,J3-4",
     "variants": []
   },
   "sheets": [

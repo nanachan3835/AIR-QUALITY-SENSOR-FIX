@@ -9,7 +9,7 @@
       "env": {
         "KICAD_MCP_PROJECT_DIR": "D:\\PROTEUS AND ALTIUM AND MATLAB\\DO-AN-TOT-NGHIEP\\air-quality-sensor\\hardware\\pcb\\air_quality_sensor",
         "KICAD_MCP_KICAD_CLI": "C:\\Users\\duong\\AppData\\Local\\Programs\\KiCad\\10.0\\bin\\kicad-cli.exe",
-        "KICAD_MCP_PROFILE": "pcb_only",
+        "KICAD_MCP_PROFILE": "review",
         "KICAD_MCP_OPERATING_MODE": "readonly"
       }
     }
