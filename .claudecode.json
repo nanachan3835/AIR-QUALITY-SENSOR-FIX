@@ -1,0 +1,4 @@
+{
+  "allowedTools": ["view_file", "edit_file", "list_directory"],
+  "restrictedPaths": ["../", "~/", "/"]
+}
