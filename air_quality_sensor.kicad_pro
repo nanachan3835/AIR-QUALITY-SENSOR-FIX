@@ -883,7 +883,7 @@
         "uuid": "fe09aefc-3c18-4540-adde-3c5d30e862f7"
       }
     ],
-    "used_designators": "#PWR50,J3-4",
+    "used_designators": "#PWR50-51,J3-4,R16",
     "variants": []
   },
   "sheets": [
