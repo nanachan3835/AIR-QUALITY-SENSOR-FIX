@@ -17,3 +17,9 @@ spinit
 # Python (the MCP server venv lives outside this folder on purpose)
 .venv/
 __pycache__/
+
+# Thư mục cá nhân, không commit/push
+.claude/
+.history/
+dat-hang-mach/
+prompt/
